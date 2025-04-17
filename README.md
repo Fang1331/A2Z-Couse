@@ -2,7 +2,7 @@
 This is the strivers A2Z course sheet solns
 
 ---------
-Problems from List:-
+Problems from List till the end of the sheet:-
 
 https://colab.research.google.com/drive/1qjSBHRZ_N-3K6-W4w48yN6kHvXlJELBs?usp=sharing
 
